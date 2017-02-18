@@ -5,6 +5,7 @@
   "author": "Viper702 <viper760@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "botbuilder": "^3.6.0",
     "chai": "^3.5.0",
     "dorfbot-rpgdice": "^1.0.29",
     "fakeredis": "^1.0.3",
@@ -41,6 +42,7 @@
     "line-reader": "^0.4.0",
     "mocha": "^3.2.0",
     "phantomjs": "^2.1.7",
+    "restify": "^4.3.0",
     "sinon": "^1.17.7",
     "sinon-chai": "^2.8.0",
     "weak": "^1.0.1"
