@@ -1,6 +1,6 @@
 {
-  "name": "molly",
-  "version": "0.0.0",
+  "name": "alexis",
+  "version": "2.19.0",
   "private": true,
   "author": "Viper702 <viper760@gmail.com>",
   "description": "A simple helpful robot for your Company",
@@ -8,6 +8,7 @@
     "botbuilder": "^3.6.0",
     "chai": "^3.5.0",
     "dorfbot-rpgdice": "^1.0.29",
+    "dotenv": "^4.0.0",
     "fakeredis": "^1.0.3",
     "hubot": "^2.19.0",
     "hubot-alias": "^0.1.11",
