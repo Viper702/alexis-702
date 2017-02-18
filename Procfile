@@ -1,1 +1,1 @@
-web: bin/hubot -a web
+web: bin/hubot -a skypebots
