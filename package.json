@@ -28,6 +28,7 @@
     "hubot-scripts": "^2.17.2",
     "hubot-search": "^0.1.2",
     "hubot-shipit": "^0.2.0",
+    "hubot-skype-bot": "^1.0.1",
     "hubot-slack": "^4.2.2",
     "hubot-stache": "^0.1.0",
     "hubot-weather": "^1.0.4",
@@ -39,6 +40,6 @@
     "sinon-chai": "^2.8.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": ">=5.6.0"
   }
 }
