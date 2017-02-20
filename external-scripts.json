@@ -13,6 +13,7 @@
   "hubot-microsoft-translator",
   "hubot-nietzche",
   "hubot-redis-brain",
+  "hubot-rss-alerts",
   "hubot-rules",
   "hubot-search",
   "hubot-shipit",
