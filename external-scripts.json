@@ -1,6 +1,7 @@
 [
   "dorfbot-rpgdice",
   "hubot-alias",
+  "hubot-auth",
   "hubot-diagnostics",
   "hubot-cool-ascii-faces",
   "hubot-epichal",
@@ -13,6 +14,7 @@
   "hubot-microsoft-translator",
   "hubot-nietzche",
   "hubot-redis-brain",
+  "hubot-rss-reader",
   "hubot-rules",
   "hubot-search",
   "hubot-shipit",
