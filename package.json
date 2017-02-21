@@ -63,7 +63,6 @@
     "scoped-http-client": "^0.11.0",
     "sinon": "^1.17.7",
     "sinon-chai": "^2.8.0",
-    "time": "file:node_modules/time",
     "type-detect": "^1.0.0",
     "util": "^0.10.3",
     "weak": "^1.0.1"
