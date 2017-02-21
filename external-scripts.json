@@ -2,6 +2,7 @@
   "dorfbot-rpgdice",
   "hubot-alias",
   "hubot-auth",
+  "hubot-cron",
   "hubot-diagnostics",
   "hubot-cool-ascii-faces",
   "hubot-epichal",
