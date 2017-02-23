@@ -44,7 +44,6 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-rocketchat": "^1.0.7",
     "hubot-rocketchat-announcement": "^0.1.0",
-    "hubot-room-select": "0.0.10",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-search": "^0.1.2",
