@@ -36,7 +36,6 @@
     "hubot-nietzche": "^1.0.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
-    "hubot-respond": "^1.0.6",
     "hubot-rocketchat": "^1.0.7",
     "hubot-rss-reader": "^0.8.3",
     "hubot-rules": "^0.1.1",
