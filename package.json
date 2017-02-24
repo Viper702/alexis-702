@@ -47,6 +47,7 @@
     "hubot-insulter": "^1.0.2",
     "hubot-introduce": "^1.0.3",
     "hubot-jokes": "0.0.12",
+    "hubot-longtext": "^3.1.0",
     "hubot-mail": "^1.2.0",
     "hubot-maps": "0.0.2",
     "hubot-microsoft-translator": "^0.2.0",
