@@ -33,7 +33,6 @@
   "hubot-nietzche",
   "hubot-onboarding",
   "hubot-redis-brain",
-  "hubot-help-rocketchat-private",
   "hubot-rss-poller2",
   "hubot-rocketchat-announcement",
   "hubot-rules",
